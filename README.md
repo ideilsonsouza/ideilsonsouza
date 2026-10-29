@@ -23,6 +23,11 @@ Transito com fluidez entre Back-end e Front-end, utilizando uma stack diversific
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge\&logo=rust\&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-%23E62431.svg?style=for-the-badge\&logo=delphi\&logoColor=white)
+![Free Pascal](https://img.shields.io/badge/Free%20Pascal-%2300599C.svg?style=for-the-badge)
 
 ### Backend & Frameworks
 
@@ -38,11 +43,18 @@ Transito com fluidez entre Back-end e Front-end, utilizando uma stack diversific
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge\&logo=astro\&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge\&logo=nuxt.js\&logoColor=#00DC82)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge\&logo=svelte\&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge\&logo=svelte\&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge\&logo=solid\&logoColor=c8c9cb)
+
+### Desktop & Cross-Platform
+
+![Tauri v2](https://img.shields.io/badge/Tauri%20v2-%2324C8D8.svg?style=for-the-badge\&logo=tauri\&logoColor=black)
+![Wails](https://img.shields.io/badge/Wails-%23DF0000.svg?style=for-the-badge\&logo=wails\&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge\&logo=electron\&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -52,6 +64,13 @@ Transito com fluidez entre Back-end e Front-end, utilizando uma stack diversific
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge\&logo=heroku\&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-%23000000.svg?style=for-the-badge\&logo=dokploy\&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-%236B16ED.svg?style=for-the-badge\&logo=coolify\&logoColor=white)
+
+### Operating Systems
+
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-%23E95420.svg?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Debian Server](https://img.shields.io/badge/Debian%20Server-%23A81D33.svg?style=for-the-badge\&logo=debian\&logoColor=white)
 
 ### Databases & Data
 
@@ -60,12 +79,32 @@ Transito com fluidez entre Back-end e Front-end, utilizando uma stack diversific
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC01.svg?style=for-the-badge\&logo=clickhouse\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-%23A4373A.svg?style=for-the-badge\&logo=microsoftaccess\&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-%23E55B25.svg?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-%23C5F74F.svg?style=for-the-badge\&logo=drizzle\&logoColor=black)
+
+### AI & LLM Engineering
+
+![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-%235B21B6.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-%230F766E.svg?style=for-the-badge)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-%231D4ED8.svg?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-%237C3AED.svg?style=for-the-badge)
 
 ### Messaging & Realtime
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io\&badgeColor=010101)
+
+### IoT & Automation
+
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge\&logo=nodered\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge\&logo=n8n\&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge\&logo=mqtt\&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-%23005E9E.svg?style=for-the-badge)
 
 ### Tools & Ecosystem
 
@@ -76,6 +115,8 @@ Transito com fluidez entre Back-end e Front-end, utilizando uma stack diversific
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge\&logo=swagger\&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-%234000BF.svg?style=for-the-badge\&logo=insomnia\&logoColor=white)
+![HTTPie](https://img.shields.io/badge/HTTPie-%2373DC8C.svg?style=for-the-badge\&logo=httpie\&logoColor=black)
 
 ---
 
